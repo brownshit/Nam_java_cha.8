@@ -12,6 +12,7 @@ public class ExpectationEx3 {
 
                 /** 근데 이 try - catch는 뭐가 맘에 안들어서 예외가 생기는걸까? **/
                                                     //  ArithmeticException
+                                                    //  이게 정수를 0으로 나눌때 생기는 오류였음.
             }//try-catch의 끝
         }//for의 끝
     }
